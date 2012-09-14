@@ -1,4 +1,4 @@
-sample
+Sample code
 ======
 
-sample
+Some stuff that I find exciting
